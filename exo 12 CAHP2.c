@@ -8,3 +8,6 @@ if(annee%4=0){
 else{
     printf("%d n est pas annee bisextile")
 }
+else{
+    printf("never")
+}
