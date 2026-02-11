@@ -17,8 +17,6 @@ else if(14<=note<16 && 0<nbr<=3){
 else if(note>=16 && note<=20 && 0<nbr<=2){
     printf("excellent");
 }
-else{
-    printf("insuffisant");
-}
+
 
 }
